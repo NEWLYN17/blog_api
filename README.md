@@ -12,8 +12,6 @@ This is a simple Blog API built using Ruby on Rails (RoR) with JWT authenticatio
 - **Pagination**: Posts can be paginated for better data management.
 - **Search**: Search for posts by title.
 - **Authorization**: Role-based access control using Pundit.
-- **CORS**: Configured to handle cross-origin requests.
-- **Rate Limiting**: Prevents excessive API calls.
 
 ---
 
@@ -27,6 +25,7 @@ Ensure you have the following installed:
 - Node.js
 - Yarn
 - Git
+- POSTMAN (for testing)
 
 ---
 
